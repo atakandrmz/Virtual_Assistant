@@ -4,19 +4,19 @@ j1 = JarvisCommands()
 
 @j1("make tea")
 def f1():
-    print("I will make tea")
+    print('I will make tea')
 
 @j1("introduce yourself")
 def f2():
-    print("my name is Jarvis")
+    print('my name is Jarvis')
 
 @j1("atakan")
 def f3():
-    print("Give admin access")
+    print('Give admin access')
 
 @j1("are you there")
 def f4():
-    print("yes, sir!")
+    print('yes, sir!')
 
 @j1("are you there")
 def f10():
